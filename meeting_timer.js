@@ -11,8 +11,7 @@ var configTimers = [
 	{name: "Jim", time: 110},
 	{name: "Josue", time: 110},
 	{name: "Jorge", time: 110},	
-	{name: "Hampton", time: 110},
-	{name: "ScrumMaster", time: 110}
+	{name: "Hampton", time: 110}
 ];
 
 var configTimersExtra = [
@@ -22,7 +21,7 @@ var configTimersExtra = [
 
 var TICKS_PER_SECOND = 10;
 var PROGRESS_COLORS = [ "red", "yellow", "green" ];
-var TIME_COLORS = [ 8 * TICKS_PER_SECOND, 20 * TICKS_PER_SECOND, Number.MAX_SAFE_INTEGER ];
+var TIME_COLORS = [ 16 * TICKS_PER_SECOND, 40 * TICKS_PER_SECOND, Number.MAX_SAFE_INTEGER ];
 var RANDOMIZE_ORDER = true;
 
 $(document).ready(function() {
