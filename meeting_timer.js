@@ -3,9 +3,16 @@ var container = "meetingTimer";
 
 var configTimers = [
 	{name: "Erick", time: 110},
-	{name: "ScrumMaster", time: 110},
-	{name: "Product Owner", time: 110},
-	{name: "Client", time: 110}
+	{name: "Abhishek", time: 110},
+	{name: "Matt", time: 110},	
+	{name: "Navin", time: 110},
+	{name: "Ricardo", time: 110},
+	{name: "Pedro", time: 110},	
+	{name: "Jim", time: 110},
+	{name: "Josue", time: 110},
+	{name: "Jorge", time: 110},	
+	{name: "Hampton", time: 110},
+	{name: "ScrumMaster", time: 110}
 ];
 
 var configTimersExtra = [
