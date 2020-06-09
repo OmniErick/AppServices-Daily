@@ -2,16 +2,16 @@ var timers = [];
 var container = "meetingTimer";
 
 var configTimers = [
-	{name: "Erick", time: 100},
-	{name: "Abhishek", time: 110},
-	{name: "Matt", time: 110},	
-	{name: "Navin", time: 110},
-	{name: "Ricardo", time: 110},
-	{name: "Pedro", time: 110},	
-	{name: "Jim", time: 110},
-	{name: "Josue", time: 110},
-	{name: "Jorge", time: 110},	
-	{name: "Hampton", time: 110}
+	{name: "Erick", time: 90},
+	{name: "Abhishek", time: 90},
+	{name: "Matt", time: 90},	
+	{name: "Navin", time: 90},
+	{name: "Ricardo", time: 90},
+	{name: "Pedro", time: 90},	
+	{name: "Jim", time: 90},
+	{name: "Josue", time: 90},
+	{name: "Jorge", time: 90},	
+	{name: "Hampton", time: 90}
 ];
 
 var configTimersExtra = [
