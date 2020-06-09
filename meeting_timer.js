@@ -2,7 +2,7 @@ var timers = [];
 var container = "meetingTimer";
 
 var configTimers = [
-	{name: "Erick", time: 110},
+	{name: "Erick", time: 100},
 	{name: "Abhishek", time: 110},
 	{name: "Matt", time: 110},	
 	{name: "Navin", time: 110},
