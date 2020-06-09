@@ -3,7 +3,7 @@ body {
 }
 
 .active > .timer {
-	background-color: #BBDEFB !important;
+	background-color: #bbfbc9 !important;
 }
 
 .timer .time {
