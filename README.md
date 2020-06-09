@@ -1,2 +1,2 @@
-# CoG-Scrum-Timer
-Just a scrum timer
+# Scrum-Meeting-Timer
+Simple HTML + JS Meeting timer
