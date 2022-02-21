@@ -132,7 +132,7 @@ function PersonTimer(number, name, time)
 						<span class="name"><div>${this.name}</div></span>
 						<button class="start ui positive big labeled icon button" onclick="startTimer(this)"><i class="play icon"></i> Start</button>
 						<button class="pause ui negative big labeled icon button" onclick="pauseTimer(this)" style="display:none"><i class="pause icon"></i> Pause</button>
-						<button class="reset ui basic icon button" onclick="resetTimer(this)"><i class="undo icon"></i></button>
+						<button class="reset basic icon button" onclick="resetTimer(this)"><i class="undo icon"></i></button>
 					</div>
 					<div id="pg_${this.id}" class="ui progress green small pgtimer">
 						<div class="bar"></div>
