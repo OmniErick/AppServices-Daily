@@ -9,7 +9,7 @@ var configTimers = [
 	{name: "Victor", time: 90},
 	{name: "Anderson", time: 90},	
 	{name: "Yash", time: 90},
-	{name: "jesus", time: 90}
+	{name: "Jesus", time: 90}
 ];
 
 var configTimersExtra = [
