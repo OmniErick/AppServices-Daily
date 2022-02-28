@@ -3,13 +3,11 @@ var container = "meetingTimer";
 
 var configTimers = [
 	{name: "Erick", time: 90},
-	{name: "Jake", time: 90},
 	{name: "Michael", time: 90},	
 	{name: "Rodrigo", time: 90},
 	{name: "Victor", time: 90},
-	{name: "Anderson", time: 90},	
 	{name: "Yash", time: 90},
-	{name: "jesus", time: 90}
+	{name: "Jesus", time: 90}
 ];
 
 var configTimersExtra = [
